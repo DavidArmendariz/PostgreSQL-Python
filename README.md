@@ -1,5 +1,5 @@
 # KPI
-## PostgresSQL
+## PostgreSQL
 To install Postgres in Ubuntu:
 ```
 sudo apt update
