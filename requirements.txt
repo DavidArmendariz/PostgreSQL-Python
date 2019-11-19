@@ -1,0 +1,4 @@
+sqlalchemy
+# Default API for PostgreSQL
+psycopg2
+pandas
